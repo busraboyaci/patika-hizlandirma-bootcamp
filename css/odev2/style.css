@@ -1,0 +1,112 @@
+.center {
+    display: block;
+    text-align: -webkit-center;
+}
+td{
+    background-color: rgb(238, 238, 238);
+}
+input {
+    writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: -internal-light-dark(black, white);
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    background-color: -internal-light-dark(rgb(255, 255, 255), rgb(59, 59, 59));
+    margin: 0em;
+    padding: 1px 2px;
+    border-width: 2px;
+    border-top-width: 2px;
+    border-right-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+    border-style: inset;
+    border-top-style: inset;
+    border-right-style: inset;
+    border-bottom-style: inset;
+    border-left-style: inset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-top-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-right-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-bottom-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-left-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+}
+input:not([type="image" i]) {
+    box-sizing: border-box;
+}
+input[type="submit" i] {
+    font-family: Arial, Helvetica, sans-serif;
+    appearance: auto;
+    user-select: none;
+    white-space: pre;
+    align-items: flex-start;
+    text-align: center;
+    cursor: default;
+    box-sizing: border-box;
+    background-color: -internal-light-dark(rgb(239, 239, 239), rgb(59, 59, 59));
+    color: -internal-light-dark(black, white);
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-top-style: outset;
+    border-right-style: outset;
+    border-bottom-style: outset;
+    border-left-style: outset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+    font-size: 13.3333px;
+    font-stretch: 100%;
+    font-style: normal;
+    border-radius: 4px;
+}
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: #000000;
+    text-align: start;
+    border-spacing: 2px;
+    font-variant: normal;
+}
+.bg-color2{
+    background-color: #7EE5DA;
+}
+.bg-color3{
+    background-color:#62B3AA;
+}
+.font-size{
+    font-size:small;
+}
+.font-size2{
+    font-size: 13.3333px;
+}
+.left-align{
+    text-align: left;
+}
+.right-align{
+    text-align: right;
+}
+.google-search{
+    background: #EFEFEF;
+}
+.border-radius{
+    border-radius: 10%;
+}
